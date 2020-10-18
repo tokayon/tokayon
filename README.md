@@ -3,10 +3,10 @@
 I'm Serge, 
 Mobile App Software Developer.
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=tokayon&count_private=true&theme=dracula)
-
+### Connect with me:
+[<img align="left" alt="tokayon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [linkedin]: https://linkedin.com/in/tokayon
-[facebook]: https://www.facebook.com/tokayon
+
 
 <!--
 **tokayon/tokayon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
