@@ -3,7 +3,7 @@
 I'm Serge, 
 Mobile App Software Developer.
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=tokayon&count_private=true)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=tokayon&count_private=true)]
 
 [linkedin]: https://linkedin.com/in/tokayon
 [facebook]: https://www.facebook.com/tokayon
