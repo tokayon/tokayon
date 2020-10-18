@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Serge, 
+Mobile App Software Developer.
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tokayon&count_private=true&show_icons=true)
+
+[linkedin]: https://linkedin.com/in/tokayon
+[facebook]: https://www.facebook.com/tokayon
+
 <!--
 **tokayon/tokayon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
