@@ -5,9 +5,10 @@ Mobile App Software Developer.
 
 ### Connect with me:
 
+here is your [linki][linkis]
 
-here is your [link][linka]
-[linka]: <https://google.com>
+[linkis]: <https://google.com>
+
 
 <!--
 **tokayon/tokayon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
