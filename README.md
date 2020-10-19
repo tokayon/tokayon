@@ -5,7 +5,7 @@ Mobile App Software Developer.
 
 ### Connect with me:
 
-here is your [linki][linkis]
+[linki][linkis]
 
 [linkis]: <https://google.com>
 
