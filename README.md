@@ -5,8 +5,9 @@ Mobile App Software Developer.
 
 ### Connect with me:
 
+[<a href: https://linkedin.com/in/tokayon>]
 [<img align="left" alt="tokayon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin]: https://linkedin.com/in/tokayon
+[</a>]
 
 
 
