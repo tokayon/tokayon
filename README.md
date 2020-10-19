@@ -4,9 +4,7 @@ I'm Serge,
 Mobile App Software Developer.
 
 ### Connect with me:
-[<img align="left" alt="maistrovas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="maistrovas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="maistrovas | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="tokayon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
 
@@ -85,12 +83,8 @@ Mobile App Software Developer.
 <br/>
 <br/>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=maistrovas&count_private=true&show_icons=true)
 
-
-[twitter]: https://twitter.com/maistrovas
-[linkedin]: https://linkedin.com/in/maistrovas
-[facebook]: https://www.facebook.com/maistrovas
+[linkedin]: https://linkedin.com/in/tokayon
 
 
 <!--
